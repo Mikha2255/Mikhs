@@ -1,0 +1,5 @@
+Ч Easy Paint Tool SAI | vk.com/painttoolsai Ч
+
+„тобы добавить дополнительные кисти в Paint Tool SAI 2.0, запустите программу потом закройте. ƒалее скопируйте с заменой файл Ђsettings2.ssdї в папку ЂSAI2 Demoї, который находитс€ в папке ЂSYSTEMAX Software Developmentї в Ђћои документыї.
+
+Ч Easy Paint Tool SAI | vk.com/painttoolsai Ч
